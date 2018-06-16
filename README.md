@@ -18,7 +18,7 @@ to Relay, which helped to improve the server-side rendering support.
 Installation
 ------------
 
-    npm install --save isomorphic-relay
+    npm install --save @boostmyschool/isomorphic-relay
 
 How to Use
 ----------
