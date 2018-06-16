@@ -1,5 +1,5 @@
 {
-  "name": "isomorphic-relay",
+  "name": "@boostmyschool/isomorphic-relay",
   "version": "0.7.4",
   "description": "Adds server side rendering support to React Relay",
   "author": "Denis Nedelyaev",
